@@ -1,0 +1,28 @@
+#primeira-div {
+    background-color: rgb(207, 177, 2);
+    font-family: 'Roboto', sans-serif;
+    min-height: 100px;
+    width: 500px;
+    margin: auto;
+}
+
+#um {
+    font-size: larger;
+    margin-bottom: 0;
+}
+
+#dois {
+    font-size: small;
+}
+
+#segunda-div {
+    height: auto;
+    width: auto;
+    margin-top: auto;
+}
+
+#colorido {
+    font-weight: bold;
+    color: red;
+    background-color: lightblue;
+}
